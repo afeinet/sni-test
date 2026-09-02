@@ -4,13 +4,13 @@
 # clear
 
 # 输出纯字符、无 Emoji 的专属频道 Banner（带加粗青色高亮）
-echo -e "\n\033[1;36m=========================================\n          youtube.com/@afeinet\n                阿飞网络\n=========================================\033[0m\n"
+echo -e "\n\033[1;36m=========================================\n          youtube.com/@afeinet\n                阿飞网络v2.0\n=========================================\033[0m\n"
 echo -e "正在为您按顺序检测 s-ui/3x-ui Reality 伪装网站延迟...\n"
 
 # 域名列表
 domains=(
-    "azure.microsoft.com" "bing.com" "www.icloud.com" "statici.icloud.com" 
-    "www.microsoft.com" "xp.apple.com" "vs.aws.amazon.com" "www.xbox.com" 
+    "www.icloud.com" 
+    "xp.apple.com" "vs.aws.amazon.com" "www.xbox.com" 
     "www.oracle.com" "images.nvidia.com" "www.amazon.com" "aws.amazon.com" 
     "www.amd.com" "www.sony.com" "www.tesla.com" "www.intel.com" 
     "www.nvidia.com" "www.apple.com"
